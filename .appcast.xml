@@ -4,5 +4,8 @@
     <item>
       <enclosure url="https://github.com/iaminglin/s2u-sketch/releases/download/v0.1.18/s2u-sketch.sketchplugin.zip" sparkle:version="0.1.18"/>
     </item>
+    <item>
+      <enclosure url="https://github.com/iaminglin/s2u-sketch/releases/download/v0.1.19/s2u-sketch.sketchplugin.zip" sparkle:version="0.1.19"/>
+    </item>
   </channel>
 </rss>
