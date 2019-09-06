@@ -13,9 +13,9 @@
     <item>
       <enclosure url="http://www.git.tube/linfuyang/s2u-sketch/uploads/f4c55873295d6e879941c90bc395cdfe/s2u-sketch.sketchplugin.zip" sparkle:version="0.1.20"/>
     </item>
-    <item>
+    <!-- <item>
       <enclosure url="http://www.git.tube/linfuyang/s2u-sketch/uploads/53ca2cca2977b05aef60d38a30a9f78b/s2u-sketch.sketchplugin.zip" sparkle:version="0.1.21"/>
-    </item>
+    </item> -->
     <item>
       <enclosure url="https://github.com/iaminglin/s2u-sketch/releases/download/v0.1.22/s2u-sketch.sketchplugin.zip" sparkle:version="0.1.22"/>
     </item>
