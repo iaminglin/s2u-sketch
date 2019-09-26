@@ -19,5 +19,8 @@
     <item>
       <enclosure url="https://github.com/iaminglin/s2u-sketch/releases/download/v0.1.22/s2u-sketch.sketchplugin.zip" sparkle:version="0.1.22"/>
     </item>
+    <item>
+      <enclosure url="https://github.com/iaminglin/s2u-sketch/releases/download/v0.1.23/s2u-sketch.sketchplugin.zip" sparkle:version="0.1.23"/>
+    </item>
   </channel>
 </rss>
